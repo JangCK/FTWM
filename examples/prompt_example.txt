@@ -1,0 +1,13 @@
+Purpose: 설득형 에세이
+Adapter: Essay
+ReaderProfile:
+  Expertise: 3
+  Affinity: 4
+  Attention: 3
+TargetLength: 3000
+Constraints: 은유는 적절히 사용, 통계 1개 포함, 학술 인용은 선택사항
+Notes: 주제는 '원격 근무의 장단점'. 핵심 메시지는 '생산성 향상 가능하나 경계 관리 필요'.
+
+-- 요청 예시 끝 --
+
+사용: 이 예시를 `prompt_template.md` 형식에 맞춰 복사 후 AI에 입력하세요.
